@@ -27,5 +27,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-rathee&theme=github-dark">
 
 # To Approach:
-- Sometime I use gmail so am available there.(*sorry if i'm not social😅 )
+- Sometime I use gmail so i'm available there.(*sorry if i'm not social😅 )
 - My mail : mohit.rathee2505@gmail.com
