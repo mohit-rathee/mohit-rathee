@@ -1,4 +1,3 @@
-
 # 🚀 Hey there, I'm Mohit! 👋
 
 My journey into the world of technology started with a single spark – creating a chat application. It was the perfect challenge that pushed me to think logically, design for efficiency, and infuse innovation. I even ventured into the realms of different ideas of providing.
@@ -36,3 +35,5 @@ Let's connect and embark on this incredible journey together:
 <!-- - 🌐 Check out my website (if you have one): [Your Website](https://www.yourwebsite.com).-->
 
 I'm always eager to meet new people, exchange ideas, and collaborate on exciting projects. Let's build a brighter, tech-driven future together!
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-rathee&theme=github-dark">
