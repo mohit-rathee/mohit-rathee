@@ -1,6 +1,6 @@
 # 🚀 Hey there, I'm Mohit! 👋
 
-My journey into the world of technology started with a single spark – creating a chat application. It was the perfect challenge that pushed me to think logically, design for efficiency, and infuse innovation. I even ventured into the realms of different ideas of providing.
+My journey into the world of technology started with a single spark – creating a chat application. It was the perfect challenge that pushed me to think logically, design for efficiency, and infuse innovation. I even ventured into the realms of crazy ideas for solving problems in my way.
 
 As a first-year college student, my goal is simple: to choose the most interesting struggles in my life. That's why I'm constantly exploring different technologies, embracing the thrill of learning, and pushing the boundaries of what I can create.
 
