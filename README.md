@@ -30,10 +30,12 @@ Right now, I'm on a thrilling journey of discovery:
 
 Let's connect and embark on this incredible journey together:
 
-- 📫 Drop me an email at [mohit.rathee2505@gmail.com](mailto:mohit.rathee2505@gmail.com)
-- 💼 Connect with me on LinkedIn: [mohit-rathee-772272217](https://www.linkedin.com/in/mohit-rathee-772272217)
-<!-- - 🌐 Check out my website (if you have one): [Your Website](https://www.yourwebsite.com).-->
+- 📫 Drop me an email at [Mail](mailto:mohit.rathee2505@gmail.com)
+- 💼 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohit-rathee-772272217)
+<!-- - 🌐 Check out my website (in future): [Website](https://www.mywebsite.com).-->
 
 I'm always eager to meet new people, exchange ideas, and collaborate on exciting projects. Let's build a brighter, tech-driven future together!
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-rathee&theme=github-dark">
+
+_Please don't judge my contributions by the green dots; I prefer larger, meaningful commits over frequent small ones for a more organized and cohesive codebase._
