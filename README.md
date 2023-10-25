@@ -31,7 +31,7 @@ Right now, I'm on a thrilling journey of discovery:
 Let's connect and embark on this incredible journey together:
 
 - 📫 Drop me an email at [Mail](mailto:mohit.rathee2505@gmail.com)
-- 💼 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohit-rathee-772272217)
+- 💼 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohit-rathee)
 <!-- - 🌐 Check out my website (in future): [Website](https://www.mywebsite.com).-->
 
 I'm always eager to meet new people, exchange ideas, and collaborate on exciting projects. Let's build a brighter, tech-driven future together!
