@@ -38,4 +38,8 @@ I'm always eager to meet new people, exchange ideas, and collaborate on exciting
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-rathee&theme=github-dark">
 
+__Hacktober Fest__
+
+[![An image of @mohitrathee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitrathee)](https://holopin.io/@mohitrathee)
+
 _Please don't judge my contributions by the green dots; I prefer larger, meaningful commits over frequent small ones for a more organized and cohesive codebase._
